@@ -5,7 +5,7 @@
 			"address": "0x0D077B05BdD7653815cE92d50e1317226eb5E39e",
 			"source": "SafeDecimalMath",
 			"link": "https://local.etherscan.io/address/0x0D077B05BdD7653815cE92d50e1317226eb5E39e",
-			"timestamp": "2020-09-03T11:21:11.739Z",
+			"timestamp": "2020-09-10T09:32:21.822Z",
 			"txn": "",
 			"network": "local"
 		},
@@ -14,7 +14,7 @@
 			"address": "0x020e24A4dd330D3780098CE63069a14201564ab0",
 			"source": "Math",
 			"link": "https://local.etherscan.io/address/0x020e24A4dd330D3780098CE63069a14201564ab0",
-			"timestamp": "2020-09-03T11:21:12.805Z",
+			"timestamp": "2020-09-10T09:32:22.889Z",
 			"txn": "",
 			"network": "local"
 		},
@@ -23,7 +23,7 @@
 			"address": "0x72b658C7FA17dbF5bf86BdDfCA287e8315a96c1e",
 			"source": "AddressResolver",
 			"link": "https://local.etherscan.io/address/0x72b658C7FA17dbF5bf86BdDfCA287e8315a96c1e",
-			"timestamp": "2020-09-03T11:21:13.912Z",
+			"timestamp": "2020-09-10T09:32:23.997Z",
 			"txn": "",
 			"network": "local"
 		},
@@ -32,7 +32,7 @@
 			"address": "0x647E3F070871A9E7A99F3Aa384b096EbD5A12e31",
 			"source": "ReadProxy",
 			"link": "https://local.etherscan.io/address/0x647E3F070871A9E7A99F3Aa384b096EbD5A12e31",
-			"timestamp": "2020-09-03T11:21:15.009Z",
+			"timestamp": "2020-09-10T09:32:25.083Z",
 			"txn": "",
 			"network": "local"
 		},
@@ -41,7 +41,7 @@
 			"address": "0x1670613958Ad17929A4A1c29188849845aEc2e45",
 			"source": "FlexibleStorage",
 			"link": "https://local.etherscan.io/address/0x1670613958Ad17929A4A1c29188849845aEc2e45",
-			"timestamp": "2020-09-03T11:21:17.170Z",
+			"timestamp": "2020-09-10T09:32:27.258Z",
 			"txn": "",
 			"network": "local"
 		},
@@ -50,7 +50,7 @@
 			"address": "0xF383D0a290ED9FF7Cc3c0c78472681ffE0572129",
 			"source": "SystemSettings",
 			"link": "https://local.etherscan.io/address/0xF383D0a290ED9FF7Cc3c0c78472681ffE0572129",
-			"timestamp": "2020-09-03T11:21:18.237Z",
+			"timestamp": "2020-09-10T09:32:28.337Z",
 			"txn": "",
 			"network": "local"
 		},
@@ -59,7 +59,7 @@
 			"address": "0xC59fc2BeE0739eadE4154A8C33Ec0AD2EA5D22db",
 			"source": "SystemStatus",
 			"link": "https://local.etherscan.io/address/0xC59fc2BeE0739eadE4154A8C33Ec0AD2EA5D22db",
-			"timestamp": "2020-09-03T11:21:19.301Z",
+			"timestamp": "2020-09-10T09:32:29.408Z",
 			"txn": "",
 			"network": "local"
 		},
@@ -68,7 +68,7 @@
 			"address": "0xEBeb2Cc78f94EB10cBf3a46481A5fA26603F734F",
 			"source": "ExchangeRates",
 			"link": "https://local.etherscan.io/address/0xEBeb2Cc78f94EB10cBf3a46481A5fA26603F734F",
-			"timestamp": "2020-09-03T11:21:20.412Z",
+			"timestamp": "2020-09-10T09:32:30.531Z",
 			"txn": "",
 			"network": "local"
 		},
@@ -77,7 +77,7 @@
 			"address": "0x40DedBEd715eb303714B3f7DaA38dEC7410F47E5",
 			"source": "RewardEscrow",
 			"link": "https://local.etherscan.io/address/0x40DedBEd715eb303714B3f7DaA38dEC7410F47E5",
-			"timestamp": "2020-09-03T11:21:21.482Z",
+			"timestamp": "2020-09-10T09:32:31.602Z",
 			"txn": "",
 			"network": "local"
 		},
@@ -86,7 +86,7 @@
 			"address": "0xb0563811A0d77D8AF1b995EC44a1e5ad321B799E",
 			"source": "SynthetixEscrow",
 			"link": "https://local.etherscan.io/address/0xb0563811A0d77D8AF1b995EC44a1e5ad321B799E",
-			"timestamp": "2020-09-03T11:21:22.547Z",
+			"timestamp": "2020-09-10T09:32:32.674Z",
 			"txn": "",
 			"network": "local"
 		},
@@ -95,7 +95,7 @@
 			"address": "0x9f4b45864c30AfAD42bD7e6171956adb1a7ec4d0",
 			"source": "SynthetixState",
 			"link": "https://local.etherscan.io/address/0x9f4b45864c30AfAD42bD7e6171956adb1a7ec4d0",
-			"timestamp": "2020-09-03T11:21:23.611Z",
+			"timestamp": "2020-09-10T09:32:33.743Z",
 			"txn": "",
 			"network": "local"
 		},
@@ -104,7 +104,7 @@
 			"address": "0xeca6d645886D9Df439A650Ea8C2242e633793c59",
 			"source": "Proxy",
 			"link": "https://local.etherscan.io/address/0xeca6d645886D9Df439A650Ea8C2242e633793c59",
-			"timestamp": "2020-09-03T11:21:24.664Z",
+			"timestamp": "2020-09-10T09:32:34.789Z",
 			"txn": "",
 			"network": "local"
 		},
@@ -113,7 +113,7 @@
 			"address": "0x65CABE752425A49aa372728E24fcD6E50312eE8c",
 			"source": "EternalStorage",
 			"link": "https://local.etherscan.io/address/0x65CABE752425A49aa372728E24fcD6E50312eE8c",
-			"timestamp": "2020-09-03T11:21:25.721Z",
+			"timestamp": "2020-09-10T09:32:35.861Z",
 			"txn": "",
 			"network": "local"
 		},
@@ -122,7 +122,7 @@
 			"address": "0xea93EFefA8479140A69a8830C61a384c4B6869a3",
 			"source": "DelegateApprovals",
 			"link": "https://local.etherscan.io/address/0xea93EFefA8479140A69a8830C61a384c4B6869a3",
-			"timestamp": "2020-09-03T11:21:26.772Z",
+			"timestamp": "2020-09-10T09:32:36.919Z",
 			"txn": "",
 			"network": "local"
 		},
@@ -131,7 +131,7 @@
 			"address": "0x61323EE4c8bb42853ee15914A321c8a003ADd3c9",
 			"source": "Liquidations",
 			"link": "https://local.etherscan.io/address/0x61323EE4c8bb42853ee15914A321c8a003ADd3c9",
-			"timestamp": "2020-09-03T11:21:28.890Z",
+			"timestamp": "2020-09-10T09:32:39.051Z",
 			"txn": "",
 			"network": "local"
 		},
@@ -140,7 +140,7 @@
 			"address": "0x53E9F806fB3458Bb7238320bf83d130c262aecFe",
 			"source": "EternalStorage",
 			"link": "https://local.etherscan.io/address/0x53E9F806fB3458Bb7238320bf83d130c262aecFe",
-			"timestamp": "2020-09-03T11:21:29.946Z",
+			"timestamp": "2020-09-10T09:32:40.103Z",
 			"txn": "",
 			"network": "local"
 		},
@@ -149,7 +149,7 @@
 			"address": "0x481b087E2343E5603Bea0Aa52bBf9297B7C76857",
 			"source": "FeePoolEternalStorage",
 			"link": "https://local.etherscan.io/address/0x481b087E2343E5603Bea0Aa52bBf9297B7C76857",
-			"timestamp": "2020-09-03T11:21:31.015Z",
+			"timestamp": "2020-09-10T09:32:41.201Z",
 			"txn": "",
 			"network": "local"
 		},
@@ -158,7 +158,7 @@
 			"address": "0xe9AD90336655BD008cCC035f9abFc87f40184a94",
 			"source": "FeePool",
 			"link": "https://local.etherscan.io/address/0xe9AD90336655BD008cCC035f9abFc87f40184a94",
-			"timestamp": "2020-09-03T11:21:32.106Z",
+			"timestamp": "2020-09-10T09:32:42.282Z",
 			"txn": "",
 			"network": "local"
 		},
@@ -167,7 +167,7 @@
 			"address": "0x680a55dA4D96271AF330Ba0A14dA190a437d6498",
 			"source": "FeePoolState",
 			"link": "https://local.etherscan.io/address/0x680a55dA4D96271AF330Ba0A14dA190a437d6498",
-			"timestamp": "2020-09-03T11:21:35.350Z",
+			"timestamp": "2020-09-10T09:32:45.489Z",
 			"txn": "",
 			"network": "local"
 		},
@@ -176,7 +176,7 @@
 			"address": "0xE5EF2FBE38893e7Ba353B1844936636c87134cF2",
 			"source": "RewardsDistribution",
 			"link": "https://local.etherscan.io/address/0xE5EF2FBE38893e7Ba353B1844936636c87134cF2",
-			"timestamp": "2020-09-03T11:21:36.421Z",
+			"timestamp": "2020-09-10T09:32:46.569Z",
 			"txn": "",
 			"network": "local"
 		},
@@ -185,7 +185,7 @@
 			"address": "0x171237426eee946800a22AB7fDEC1c9C994773e4",
 			"source": "SupplySchedule",
 			"link": "https://local.etherscan.io/address/0x171237426eee946800a22AB7fDEC1c9C994773e4",
-			"timestamp": "2020-09-03T11:21:37.477Z",
+			"timestamp": "2020-09-10T09:32:47.629Z",
 			"txn": "",
 			"network": "local"
 		},
@@ -194,7 +194,7 @@
 			"address": "0x247bab97017FE92aB84FB5F02Fd3f87CaA87B38e",
 			"source": "ProxyERC20",
 			"link": "https://local.etherscan.io/address/0x247bab97017FE92aB84FB5F02Fd3f87CaA87B38e",
-			"timestamp": "2020-09-03T11:21:38.533Z",
+			"timestamp": "2020-09-10T09:32:48.682Z",
 			"txn": "",
 			"network": "local"
 		},
@@ -203,7 +203,7 @@
 			"address": "0x3ffb7974385d219A55DE256ec7Cc40DE792D996E",
 			"source": "TokenState",
 			"link": "https://local.etherscan.io/address/0x3ffb7974385d219A55DE256ec7Cc40DE792D996E",
-			"timestamp": "2020-09-03T11:21:39.585Z",
+			"timestamp": "2020-09-10T09:32:49.742Z",
 			"txn": "",
 			"network": "local"
 		},
@@ -212,7 +212,7 @@
 			"address": "0x2a5B2fE7A96020b378b98245709Ffa4C35498145",
 			"source": "Synthetix",
 			"link": "https://local.etherscan.io/address/0x2a5B2fE7A96020b378b98245709Ffa4C35498145",
-			"timestamp": "2020-09-03T11:21:40.662Z",
+			"timestamp": "2020-09-10T09:32:50.821Z",
 			"txn": "",
 			"network": "local"
 		},
@@ -221,7 +221,7 @@
 			"address": "0xFF6190A9cF016b197514518D60e8Acdc0B6B0E2d",
 			"source": "Proxy",
 			"link": "https://local.etherscan.io/address/0xFF6190A9cF016b197514518D60e8Acdc0B6B0E2d",
-			"timestamp": "2020-09-03T11:21:42.856Z",
+			"timestamp": "2020-09-10T09:32:52.952Z",
 			"txn": "",
 			"network": "local"
 		},
@@ -230,7 +230,7 @@
 			"address": "0x5aeB1E589ED5Cd46d874a5599aFa587512556B48",
 			"source": "Exchanger",
 			"link": "https://local.etherscan.io/address/0x5aeB1E589ED5Cd46d874a5599aFa587512556B48",
-			"timestamp": "2020-09-03T11:21:46.042Z",
+			"timestamp": "2020-09-10T09:32:56.137Z",
 			"txn": "",
 			"network": "local"
 		},
@@ -239,7 +239,7 @@
 			"address": "0x9C499F02b1808c5800fED9e1F2c12940dcCD2D00",
 			"source": "ExchangeState",
 			"link": "https://local.etherscan.io/address/0x9C499F02b1808c5800fED9e1F2c12940dcCD2D00",
-			"timestamp": "2020-09-03T11:21:47.149Z",
+			"timestamp": "2020-09-10T09:32:57.187Z",
 			"txn": "",
 			"network": "local"
 		},
@@ -248,7 +248,7 @@
 			"address": "0x956F3ce799677a4fC54a385b38dD5E1F8eEE1d8e",
 			"source": "Issuer",
 			"link": "https://local.etherscan.io/address/0x956F3ce799677a4fC54a385b38dD5E1F8eEE1d8e",
-			"timestamp": "2020-09-03T11:21:51.368Z",
+			"timestamp": "2020-09-10T09:33:01.471Z",
 			"txn": "",
 			"network": "local"
 		},
@@ -257,7 +257,7 @@
 			"address": "0xb4e4321fa5818aC9eCc0C56aBbC4a25662012286",
 			"source": "EscrowChecker",
 			"link": "https://local.etherscan.io/address/0xb4e4321fa5818aC9eCc0C56aBbC4a25662012286",
-			"timestamp": "2020-09-03T11:21:53.511Z",
+			"timestamp": "2020-09-10T09:33:03.629Z",
 			"txn": "",
 			"network": "local"
 		},
@@ -266,7 +266,7 @@
 			"address": "0xE7EADB6DB1777E9e7C3bAd78fEa77d035296E724",
 			"source": "BinaryOptionMarketFactory",
 			"link": "https://local.etherscan.io/address/0xE7EADB6DB1777E9e7C3bAd78fEa77d035296E724",
-			"timestamp": "2020-09-03T11:21:59.829Z",
+			"timestamp": "2020-09-10T09:33:09.984Z",
 			"txn": "",
 			"network": "local"
 		},
@@ -275,7 +275,7 @@
 			"address": "0xa159C4DB4c721b38d45728D212759aff04861CF3",
 			"source": "BinaryOptionMarketManager",
 			"link": "https://local.etherscan.io/address/0xa159C4DB4c721b38d45728D212759aff04861CF3",
-			"timestamp": "2020-09-03T11:22:00.895Z",
+			"timestamp": "2020-09-10T09:33:11.041Z",
 			"txn": "",
 			"network": "local"
 		},
@@ -284,7 +284,7 @@
 			"address": "0xD2100A2c526F67e46f480e8476a9F2Efc51652AC",
 			"source": "BinaryOptionMarketData",
 			"link": "https://local.etherscan.io/address/0xD2100A2c526F67e46f480e8476a9F2Efc51652AC",
-			"timestamp": "2020-09-03T11:22:01.941Z",
+			"timestamp": "2020-09-10T09:33:12.086Z",
 			"txn": "",
 			"network": "local"
 		},
@@ -293,7 +293,7 @@
 			"address": "0x3D42C829B2280FF22cD5f6D202f3047eD7087D82",
 			"source": "TokenState",
 			"link": "https://local.etherscan.io/address/0x3D42C829B2280FF22cD5f6D202f3047eD7087D82",
-			"timestamp": "2020-09-03T11:22:04.035Z",
+			"timestamp": "2020-09-10T09:33:14.190Z",
 			"txn": "",
 			"network": "local"
 		},
@@ -302,7 +302,7 @@
 			"address": "0x08392dFE35114628814cd9F6afb2E943Df60194f",
 			"source": "ProxyERC20",
 			"link": "https://local.etherscan.io/address/0x08392dFE35114628814cd9F6afb2E943Df60194f",
-			"timestamp": "2020-09-03T11:22:05.083Z",
+			"timestamp": "2020-09-10T09:33:15.242Z",
 			"txn": "",
 			"network": "local"
 		},
@@ -311,7 +311,7 @@
 			"address": "0xDc9e3804649aF524ea9b17daD73eF9A73c2A4e8D",
 			"source": "Synth",
 			"link": "https://local.etherscan.io/address/0xDc9e3804649aF524ea9b17daD73eF9A73c2A4e8D",
-			"timestamp": "2020-09-03T11:22:06.157Z",
+			"timestamp": "2020-09-10T09:33:16.315Z",
 			"txn": "",
 			"network": "local"
 		},
@@ -320,7 +320,7 @@
 			"address": "0xEF82AfAeD02D25739A5d9C6EBf0add659ddb7564",
 			"source": "TokenState",
 			"link": "https://local.etherscan.io/address/0xEF82AfAeD02D25739A5d9C6EBf0add659ddb7564",
-			"timestamp": "2020-09-03T11:22:10.393Z",
+			"timestamp": "2020-09-10T09:33:20.623Z",
 			"txn": "",
 			"network": "local"
 		},
@@ -329,7 +329,7 @@
 			"address": "0xDb9fe4ab30eb65E527bEEa704fC1CA82bECd5d0B",
 			"source": "ProxyERC20",
 			"link": "https://local.etherscan.io/address/0xDb9fe4ab30eb65E527bEEa704fC1CA82bECd5d0B",
-			"timestamp": "2020-09-03T11:22:11.435Z",
+			"timestamp": "2020-09-10T09:33:21.676Z",
 			"txn": "",
 			"network": "local"
 		},
@@ -338,7 +338,7 @@
 			"address": "0x7Cf0D807751c3f02A8064E0d9d1A34020AC7502B",
 			"source": "Synth",
 			"link": "https://local.etherscan.io/address/0x7Cf0D807751c3f02A8064E0d9d1A34020AC7502B",
-			"timestamp": "2020-09-03T11:22:12.503Z",
+			"timestamp": "2020-09-10T09:33:22.756Z",
 			"txn": "",
 			"network": "local"
 		},
@@ -347,7 +347,7 @@
 			"address": "0x833628cedf96CC94b9f8472FCd9629B51a7c591d",
 			"source": "TokenState",
 			"link": "https://local.etherscan.io/address/0x833628cedf96CC94b9f8472FCd9629B51a7c591d",
-			"timestamp": "2020-09-03T11:22:16.731Z",
+			"timestamp": "2020-09-10T09:33:26.994Z",
 			"txn": "",
 			"network": "local"
 		},
@@ -356,7 +356,7 @@
 			"address": "0x2c306F2916e6FFB7d0Ab54533935038a13DC347c",
 			"source": "ProxyERC20",
 			"link": "https://local.etherscan.io/address/0x2c306F2916e6FFB7d0Ab54533935038a13DC347c",
-			"timestamp": "2020-09-03T11:22:17.780Z",
+			"timestamp": "2020-09-10T09:33:28.071Z",
 			"txn": "",
 			"network": "local"
 		},
@@ -365,7 +365,7 @@
 			"address": "0x6cb18B65ff9779fa1Ed71b802293D8c178D3b7AF",
 			"source": "ProxyERC20",
 			"link": "https://local.etherscan.io/address/0x6cb18B65ff9779fa1Ed71b802293D8c178D3b7AF",
-			"timestamp": "2020-09-03T11:22:18.830Z",
+			"timestamp": "2020-09-10T09:33:29.121Z",
 			"txn": "",
 			"network": "local"
 		},
@@ -374,7 +374,7 @@
 			"address": "0x7B513FbC06586AA3919235662066161Eed1a3932",
 			"source": "Synth",
 			"link": "https://local.etherscan.io/address/0x7B513FbC06586AA3919235662066161Eed1a3932",
-			"timestamp": "2020-09-03T11:22:19.961Z",
+			"timestamp": "2020-09-10T09:33:30.189Z",
 			"txn": "",
 			"network": "local"
 		},
@@ -383,7 +383,7 @@
 			"address": "0x848940C3f909F5Ca88352E9d25A7E0afB8d1909E",
 			"source": "TokenState",
 			"link": "https://local.etherscan.io/address/0x848940C3f909F5Ca88352E9d25A7E0afB8d1909E",
-			"timestamp": "2020-09-03T11:22:26.331Z",
+			"timestamp": "2020-09-10T09:33:36.565Z",
 			"txn": "",
 			"network": "local"
 		},
@@ -392,7 +392,7 @@
 			"address": "0x9a759f7bA9254B0443e91bAC88c286B1984d7124",
 			"source": "ProxyERC20",
 			"link": "https://local.etherscan.io/address/0x9a759f7bA9254B0443e91bAC88c286B1984d7124",
-			"timestamp": "2020-09-03T11:22:27.381Z",
+			"timestamp": "2020-09-10T09:33:37.630Z",
 			"txn": "",
 			"network": "local"
 		},
@@ -401,7 +401,7 @@
 			"address": "0xE94dc6Fd0A218c4400F96104845BC987b20B5C87",
 			"source": "Synth",
 			"link": "https://local.etherscan.io/address/0xE94dc6Fd0A218c4400F96104845BC987b20B5C87",
-			"timestamp": "2020-09-03T11:22:28.450Z",
+			"timestamp": "2020-09-10T09:33:38.769Z",
 			"txn": "",
 			"network": "local"
 		},
@@ -410,7 +410,7 @@
 			"address": "0xAb4F5EcF0354491C16D3412d6f0A3b6Eb640BF4D",
 			"source": "TokenState",
 			"link": "https://local.etherscan.io/address/0xAb4F5EcF0354491C16D3412d6f0A3b6Eb640BF4D",
-			"timestamp": "2020-09-03T11:22:32.718Z",
+			"timestamp": "2020-09-10T09:33:43.001Z",
 			"txn": "",
 			"network": "local"
 		},
@@ -419,7 +419,7 @@
 			"address": "0xDE32757734ab813247E020f2f5bE7DC9CE1F410B",
 			"source": "ProxyERC20",
 			"link": "https://local.etherscan.io/address/0xDE32757734ab813247E020f2f5bE7DC9CE1F410B",
-			"timestamp": "2020-09-03T11:22:33.761Z",
+			"timestamp": "2020-09-10T09:33:44.054Z",
 			"txn": "",
 			"network": "local"
 		},
@@ -428,7 +428,7 @@
 			"address": "0xEB7c201cCcD57b4985Ff0C1950D3Cf152816a821",
 			"source": "PurgeableSynth",
 			"link": "https://local.etherscan.io/address/0xEB7c201cCcD57b4985Ff0C1950D3Cf152816a821",
-			"timestamp": "2020-09-03T11:22:34.866Z",
+			"timestamp": "2020-09-10T09:33:45.128Z",
 			"txn": "",
 			"network": "local"
 		},
@@ -437,7 +437,7 @@
 			"address": "0xABB91D1eDd6609e65A374f801e840998534d1BbA",
 			"source": "TokenState",
 			"link": "https://local.etherscan.io/address/0xABB91D1eDd6609e65A374f801e840998534d1BbA",
-			"timestamp": "2020-09-03T11:22:39.170Z",
+			"timestamp": "2020-09-10T09:33:49.401Z",
 			"txn": "",
 			"network": "local"
 		},
@@ -446,7 +446,7 @@
 			"address": "0x9E47ceDbf1124c16E96F2FA8D2070A026934aeA1",
 			"source": "ProxyERC20",
 			"link": "https://local.etherscan.io/address/0x9E47ceDbf1124c16E96F2FA8D2070A026934aeA1",
-			"timestamp": "2020-09-03T11:22:40.225Z",
+			"timestamp": "2020-09-10T09:33:50.455Z",
 			"txn": "",
 			"network": "local"
 		},
@@ -455,7 +455,7 @@
 			"address": "0x30c056C5788EA5488A9962052B01e9FD082C6Ea2",
 			"source": "PurgeableSynth",
 			"link": "https://local.etherscan.io/address/0x30c056C5788EA5488A9962052B01e9FD082C6Ea2",
-			"timestamp": "2020-09-03T11:22:41.302Z",
+			"timestamp": "2020-09-10T09:33:51.571Z",
 			"txn": "",
 			"network": "local"
 		},
@@ -464,7 +464,7 @@
 			"address": "0x65Bd4E7B3660A68BABC1112526811437Ca4bc77F",
 			"source": "TokenState",
 			"link": "https://local.etherscan.io/address/0x65Bd4E7B3660A68BABC1112526811437Ca4bc77F",
-			"timestamp": "2020-09-03T11:22:45.514Z",
+			"timestamp": "2020-09-10T09:33:55.843Z",
 			"txn": "",
 			"network": "local"
 		},
@@ -473,7 +473,7 @@
 			"address": "0xFA9c64EC22497Ae1da8304f46C4CFAf3944eFfa4",
 			"source": "ProxyERC20",
 			"link": "https://local.etherscan.io/address/0xFA9c64EC22497Ae1da8304f46C4CFAf3944eFfa4",
-			"timestamp": "2020-09-03T11:22:46.568Z",
+			"timestamp": "2020-09-10T09:33:56.898Z",
 			"txn": "",
 			"network": "local"
 		},
@@ -482,7 +482,7 @@
 			"address": "0x57DE56e9638c2A2D6265E26D5E0C6F28e744C82F",
 			"source": "PurgeableSynth",
 			"link": "https://local.etherscan.io/address/0x57DE56e9638c2A2D6265E26D5E0C6F28e744C82F",
-			"timestamp": "2020-09-03T11:22:47.634Z",
+			"timestamp": "2020-09-10T09:33:57.978Z",
 			"txn": "",
 			"network": "local"
 		},
@@ -491,7 +491,7 @@
 			"address": "0x497ec60a8793d3bFAB000af446a3F2ea0b827Efc",
 			"source": "TokenState",
 			"link": "https://local.etherscan.io/address/0x497ec60a8793d3bFAB000af446a3F2ea0b827Efc",
-			"timestamp": "2020-09-03T11:22:51.884Z",
+			"timestamp": "2020-09-10T09:34:02.250Z",
 			"txn": "",
 			"network": "local"
 		},
@@ -500,7 +500,7 @@
 			"address": "0xD277B4fDDe4D3BCe7b0d3bFDA55A03db0fb46011",
 			"source": "ProxyERC20",
 			"link": "https://local.etherscan.io/address/0xD277B4fDDe4D3BCe7b0d3bFDA55A03db0fb46011",
-			"timestamp": "2020-09-03T11:22:52.932Z",
+			"timestamp": "2020-09-10T09:34:03.297Z",
 			"txn": "",
 			"network": "local"
 		},
@@ -509,7 +509,7 @@
 			"address": "0xd54f31d6A17563f5216c636D491F3190F9469d69",
 			"source": "Synth",
 			"link": "https://local.etherscan.io/address/0xd54f31d6A17563f5216c636D491F3190F9469d69",
-			"timestamp": "2020-09-03T11:22:53.988Z",
+			"timestamp": "2020-09-10T09:34:04.372Z",
 			"txn": "",
 			"network": "local"
 		},
@@ -518,7 +518,7 @@
 			"address": "0x1C558811FaCeF6fFD8eCaE7cB0E691d84f017539",
 			"source": "TokenState",
 			"link": "https://local.etherscan.io/address/0x1C558811FaCeF6fFD8eCaE7cB0E691d84f017539",
-			"timestamp": "2020-09-03T11:22:58.178Z",
+			"timestamp": "2020-09-10T09:34:08.668Z",
 			"txn": "",
 			"network": "local"
 		},
@@ -527,7 +527,7 @@
 			"address": "0x0E3FE462553367529b319A9817640a5D75659195",
 			"source": "ProxyERC20",
 			"link": "https://local.etherscan.io/address/0x0E3FE462553367529b319A9817640a5D75659195",
-			"timestamp": "2020-09-03T11:22:59.214Z",
+			"timestamp": "2020-09-10T09:34:09.719Z",
 			"txn": "",
 			"network": "local"
 		},
@@ -536,7 +536,7 @@
 			"address": "0x14458b30794F6F5B2c14E742C2E663A62Ba4E305",
 			"source": "Synth",
 			"link": "https://local.etherscan.io/address/0x14458b30794F6F5B2c14E742C2E663A62Ba4E305",
-			"timestamp": "2020-09-03T11:23:00.272Z",
+			"timestamp": "2020-09-10T09:34:10.789Z",
 			"txn": "",
 			"network": "local"
 		},
@@ -545,7 +545,7 @@
 			"address": "0x65e365E7A58F8cE0C768564D619d4d0e753d8fF4",
 			"source": "TokenState",
 			"link": "https://local.etherscan.io/address/0x65e365E7A58F8cE0C768564D619d4d0e753d8fF4",
-			"timestamp": "2020-09-03T11:23:04.469Z",
+			"timestamp": "2020-09-10T09:34:15.047Z",
 			"txn": "",
 			"network": "local"
 		},
@@ -554,7 +554,7 @@
 			"address": "0x93F33093D491653D3CAb1F502d01bAeDf0C7D374",
 			"source": "ProxyERC20",
 			"link": "https://local.etherscan.io/address/0x93F33093D491653D3CAb1F502d01bAeDf0C7D374",
-			"timestamp": "2020-09-03T11:23:05.520Z",
+			"timestamp": "2020-09-10T09:34:16.092Z",
 			"txn": "",
 			"network": "local"
 		},
@@ -563,7 +563,7 @@
 			"address": "0x1040aE978A4c54B60eC6CB4f329960E78C2A4e32",
 			"source": "MultiCollateralSynth",
 			"link": "https://local.etherscan.io/address/0x1040aE978A4c54B60eC6CB4f329960E78C2A4e32",
-			"timestamp": "2020-09-03T11:23:06.614Z",
+			"timestamp": "2020-09-10T09:34:17.160Z",
 			"txn": "",
 			"network": "local"
 		},
@@ -572,7 +572,7 @@
 			"address": "0x6188bc840cBe64988ED77F90BD9e4d69B30a1A2e",
 			"source": "TokenState",
 			"link": "https://local.etherscan.io/address/0x6188bc840cBe64988ED77F90BD9e4d69B30a1A2e",
-			"timestamp": "2020-09-03T11:23:10.981Z",
+			"timestamp": "2020-09-10T09:34:21.432Z",
 			"txn": "",
 			"network": "local"
 		},
@@ -581,7 +581,7 @@
 			"address": "0xF9153dC4D8Dc9c1fdd895ac110Fdf3068fB727E8",
 			"source": "ProxyERC20",
 			"link": "https://local.etherscan.io/address/0xF9153dC4D8Dc9c1fdd895ac110Fdf3068fB727E8",
-			"timestamp": "2020-09-03T11:23:12.026Z",
+			"timestamp": "2020-09-10T09:34:22.485Z",
 			"txn": "",
 			"network": "local"
 		},
@@ -590,7 +590,7 @@
 			"address": "0xaFd41Ee4aB36417009875854712919BEdf494e93",
 			"source": "Synth",
 			"link": "https://local.etherscan.io/address/0xaFd41Ee4aB36417009875854712919BEdf494e93",
-			"timestamp": "2020-09-03T11:23:13.108Z",
+			"timestamp": "2020-09-10T09:34:23.558Z",
 			"txn": "",
 			"network": "local"
 		},
@@ -599,7 +599,7 @@
 			"address": "0xae04D22FFF41Afd32Fd6c6338F26589663158e52",
 			"source": "TokenState",
 			"link": "https://local.etherscan.io/address/0xae04D22FFF41Afd32Fd6c6338F26589663158e52",
-			"timestamp": "2020-09-03T11:23:17.362Z",
+			"timestamp": "2020-09-10T09:34:27.825Z",
 			"txn": "",
 			"network": "local"
 		},
@@ -608,7 +608,7 @@
 			"address": "0x13302eB8d0d755D71768B43A6367Bf8a289507A6",
 			"source": "ProxyERC20",
 			"link": "https://local.etherscan.io/address/0x13302eB8d0d755D71768B43A6367Bf8a289507A6",
-			"timestamp": "2020-09-03T11:23:18.413Z",
+			"timestamp": "2020-09-10T09:34:28.877Z",
 			"txn": "",
 			"network": "local"
 		},
@@ -617,7 +617,7 @@
 			"address": "0x97862ADeC17dC3aD87c01DAB19aD46f78748023B",
 			"source": "Synth",
 			"link": "https://local.etherscan.io/address/0x97862ADeC17dC3aD87c01DAB19aD46f78748023B",
-			"timestamp": "2020-09-03T11:23:19.485Z",
+			"timestamp": "2020-09-10T09:34:30.023Z",
 			"txn": "",
 			"network": "local"
 		},
@@ -626,7 +626,7 @@
 			"address": "0x25496b7A5653f88E9dE858bBb1f48a9776a0eD08",
 			"source": "TokenState",
 			"link": "https://local.etherscan.io/address/0x25496b7A5653f88E9dE858bBb1f48a9776a0eD08",
-			"timestamp": "2020-09-03T11:23:23.729Z",
+			"timestamp": "2020-09-10T09:34:34.254Z",
 			"txn": "",
 			"network": "local"
 		},
@@ -635,7 +635,7 @@
 			"address": "0xb85e741E1d800CAEa9f14a4858B0C06A09e780a9",
 			"source": "ProxyERC20",
 			"link": "https://local.etherscan.io/address/0xb85e741E1d800CAEa9f14a4858B0C06A09e780a9",
-			"timestamp": "2020-09-03T11:23:24.774Z",
+			"timestamp": "2020-09-10T09:34:35.301Z",
 			"txn": "",
 			"network": "local"
 		},
@@ -644,7 +644,7 @@
 			"address": "0xca6e5275d6A20b6cEf1382E557eE9B457b32a8E7",
 			"source": "Synth",
 			"link": "https://local.etherscan.io/address/0xca6e5275d6A20b6cEf1382E557eE9B457b32a8E7",
-			"timestamp": "2020-09-03T11:23:25.850Z",
+			"timestamp": "2020-09-10T09:34:36.376Z",
 			"txn": "",
 			"network": "local"
 		},
@@ -653,7 +653,7 @@
 			"address": "0x3e2e444720889E61bbd450c27F479aB374E5a4AA",
 			"source": "TokenState",
 			"link": "https://local.etherscan.io/address/0x3e2e444720889E61bbd450c27F479aB374E5a4AA",
-			"timestamp": "2020-09-03T11:23:30.251Z",
+			"timestamp": "2020-09-10T09:34:40.621Z",
 			"txn": "",
 			"network": "local"
 		},
@@ -662,7 +662,7 @@
 			"address": "0x529b40c40a934Ccd8ccA82db90Ac3bd3A94959E6",
 			"source": "ProxyERC20",
 			"link": "https://local.etherscan.io/address/0x529b40c40a934Ccd8ccA82db90Ac3bd3A94959E6",
-			"timestamp": "2020-09-03T11:23:31.298Z",
+			"timestamp": "2020-09-10T09:34:41.672Z",
 			"txn": "",
 			"network": "local"
 		},
@@ -671,7 +671,7 @@
 			"address": "0x111f244144F6048D12E3970e4cda157Adf33981a",
 			"source": "Synth",
 			"link": "https://local.etherscan.io/address/0x111f244144F6048D12E3970e4cda157Adf33981a",
-			"timestamp": "2020-09-03T11:23:32.430Z",
+			"timestamp": "2020-09-10T09:34:42.745Z",
 			"txn": "",
 			"network": "local"
 		},
@@ -680,7 +680,7 @@
 			"address": "0xCd5674D9D77b579859996d0259B3b139A3a10B40",
 			"source": "TokenState",
 			"link": "https://local.etherscan.io/address/0xCd5674D9D77b579859996d0259B3b139A3a10B40",
-			"timestamp": "2020-09-03T11:23:36.758Z",
+			"timestamp": "2020-09-10T09:34:46.993Z",
 			"txn": "",
 			"network": "local"
 		},
@@ -689,7 +689,7 @@
 			"address": "0xAbCC933eEc5C06eCc7974a70F428e332037fE0CB",
 			"source": "ProxyERC20",
 			"link": "https://local.etherscan.io/address/0xAbCC933eEc5C06eCc7974a70F428e332037fE0CB",
-			"timestamp": "2020-09-03T11:23:37.811Z",
+			"timestamp": "2020-09-10T09:34:48.041Z",
 			"txn": "",
 			"network": "local"
 		},
@@ -698,7 +698,7 @@
 			"address": "0xb1c23eE59a8632084D1AC295432Fd94fF116bdaB",
 			"source": "PurgeableSynth",
 			"link": "https://local.etherscan.io/address/0xb1c23eE59a8632084D1AC295432Fd94fF116bdaB",
-			"timestamp": "2020-09-03T11:23:38.947Z",
+			"timestamp": "2020-09-10T09:34:49.110Z",
 			"txn": "",
 			"network": "local"
 		},
@@ -707,7 +707,7 @@
 			"address": "0xa13fB12AF9044082B84313f434Dc053e0751a33b",
 			"source": "TokenState",
 			"link": "https://local.etherscan.io/address/0xa13fB12AF9044082B84313f434Dc053e0751a33b",
-			"timestamp": "2020-09-03T11:23:43.269Z",
+			"timestamp": "2020-09-10T09:34:53.373Z",
 			"txn": "",
 			"network": "local"
 		},
@@ -716,7 +716,7 @@
 			"address": "0x5B889a09319A94D1Fd82e693Cf81923A43688bd7",
 			"source": "ProxyERC20",
 			"link": "https://local.etherscan.io/address/0x5B889a09319A94D1Fd82e693Cf81923A43688bd7",
-			"timestamp": "2020-09-03T11:23:44.304Z",
+			"timestamp": "2020-09-10T09:34:54.425Z",
 			"txn": "",
 			"network": "local"
 		},
@@ -725,7 +725,7 @@
 			"address": "0xF34cF4dBd41C4Ce327fd40Fe9464dBa93565117B",
 			"source": "PurgeableSynth",
 			"link": "https://local.etherscan.io/address/0xF34cF4dBd41C4Ce327fd40Fe9464dBa93565117B",
-			"timestamp": "2020-09-03T11:23:45.370Z",
+			"timestamp": "2020-09-10T09:34:55.503Z",
 			"txn": "",
 			"network": "local"
 		},
@@ -734,7 +734,7 @@
 			"address": "0x292555122251CB88D8a03276cD394996f80DD16f",
 			"source": "TokenState",
 			"link": "https://local.etherscan.io/address/0x292555122251CB88D8a03276cD394996f80DD16f",
-			"timestamp": "2020-09-03T11:23:50.618Z",
+			"timestamp": "2020-09-10T09:35:00.841Z",
 			"txn": "",
 			"network": "local"
 		},
@@ -743,7 +743,7 @@
 			"address": "0x55210226d5bDe96a1462FD7b4cEd9aFeE881dF2a",
 			"source": "ProxyERC20",
 			"link": "https://local.etherscan.io/address/0x55210226d5bDe96a1462FD7b4cEd9aFeE881dF2a",
-			"timestamp": "2020-09-03T11:23:51.657Z",
+			"timestamp": "2020-09-10T09:35:01.886Z",
 			"txn": "",
 			"network": "local"
 		},
@@ -752,7 +752,7 @@
 			"address": "0x709b8FdE84B812A667E161cC6dacd373efa423c4",
 			"source": "PurgeableSynth",
 			"link": "https://local.etherscan.io/address/0x709b8FdE84B812A667E161cC6dacd373efa423c4",
-			"timestamp": "2020-09-03T11:23:52.729Z",
+			"timestamp": "2020-09-10T09:35:02.951Z",
 			"txn": "",
 			"network": "local"
 		},
@@ -761,7 +761,7 @@
 			"address": "0x27BCEC56C324a661bBeDb245E2Db5877BE19873F",
 			"source": "TokenState",
 			"link": "https://local.etherscan.io/address/0x27BCEC56C324a661bBeDb245E2Db5877BE19873F",
-			"timestamp": "2020-09-03T11:23:58.015Z",
+			"timestamp": "2020-09-10T09:35:08.224Z",
 			"txn": "",
 			"network": "local"
 		},
@@ -770,7 +770,7 @@
 			"address": "0xCea2DfA8419412B2cCEE0E56b71D1c92A1a9CbA5",
 			"source": "ProxyERC20",
 			"link": "https://local.etherscan.io/address/0xCea2DfA8419412B2cCEE0E56b71D1c92A1a9CbA5",
-			"timestamp": "2020-09-03T11:23:59.070Z",
+			"timestamp": "2020-09-10T09:35:09.269Z",
 			"txn": "",
 			"network": "local"
 		},
@@ -779,7 +779,7 @@
 			"address": "0xf0C1363CcCa6AD3e0F55469D756FAE9c89c769C3",
 			"source": "PurgeableSynth",
 			"link": "https://local.etherscan.io/address/0xf0C1363CcCa6AD3e0F55469D756FAE9c89c769C3",
-			"timestamp": "2020-09-03T11:24:00.132Z",
+			"timestamp": "2020-09-10T09:35:10.336Z",
 			"txn": "",
 			"network": "local"
 		},
@@ -788,7 +788,7 @@
 			"address": "0x9A704a7d2f21b2D17ab8627BeaC6a741c46Aada6",
 			"source": "TokenState",
 			"link": "https://local.etherscan.io/address/0x9A704a7d2f21b2D17ab8627BeaC6a741c46Aada6",
-			"timestamp": "2020-09-03T11:24:05.425Z",
+			"timestamp": "2020-09-10T09:35:15.633Z",
 			"txn": "",
 			"network": "local"
 		},
@@ -797,7 +797,7 @@
 			"address": "0x591c080cD830C41Da18D0Cd41d85356ff53218ea",
 			"source": "ProxyERC20",
 			"link": "https://local.etherscan.io/address/0x591c080cD830C41Da18D0Cd41d85356ff53218ea",
-			"timestamp": "2020-09-03T11:24:06.466Z",
+			"timestamp": "2020-09-10T09:35:16.682Z",
 			"txn": "",
 			"network": "local"
 		},
@@ -806,7 +806,7 @@
 			"address": "0x3223EC60F11da0aeC0f54282ad8fb4430fbC7f5C",
 			"source": "PurgeableSynth",
 			"link": "https://local.etherscan.io/address/0x3223EC60F11da0aeC0f54282ad8fb4430fbC7f5C",
-			"timestamp": "2020-09-03T11:24:07.571Z",
+			"timestamp": "2020-09-10T09:35:17.759Z",
 			"txn": "",
 			"network": "local"
 		},
@@ -815,7 +815,7 @@
 			"address": "0xD88ddF4C15Ef9928025c0880A6cDF85AD675d052",
 			"source": "TokenState",
 			"link": "https://local.etherscan.io/address/0xD88ddF4C15Ef9928025c0880A6cDF85AD675d052",
-			"timestamp": "2020-09-03T11:24:12.846Z",
+			"timestamp": "2020-09-10T09:35:23.043Z",
 			"txn": "",
 			"network": "local"
 		},
@@ -824,7 +824,7 @@
 			"address": "0xA82d2e05943F4d82FcD77A58c89b4B5eDCAd5BFF",
 			"source": "ProxyERC20",
 			"link": "https://local.etherscan.io/address/0xA82d2e05943F4d82FcD77A58c89b4B5eDCAd5BFF",
-			"timestamp": "2020-09-03T11:24:13.887Z",
+			"timestamp": "2020-09-10T09:35:24.103Z",
 			"txn": "",
 			"network": "local"
 		},
@@ -833,7 +833,7 @@
 			"address": "0x3792D1aBf733768795459B9FD2D01e097a1BB9C1",
 			"source": "PurgeableSynth",
 			"link": "https://local.etherscan.io/address/0x3792D1aBf733768795459B9FD2D01e097a1BB9C1",
-			"timestamp": "2020-09-03T11:24:14.957Z",
+			"timestamp": "2020-09-10T09:35:25.172Z",
 			"txn": "",
 			"network": "local"
 		},
@@ -842,7 +842,7 @@
 			"address": "0x97c645B20406F570A1d3c533149199DC3b11221B",
 			"source": "TokenState",
 			"link": "https://local.etherscan.io/address/0x97c645B20406F570A1d3c533149199DC3b11221B",
-			"timestamp": "2020-09-03T11:24:20.235Z",
+			"timestamp": "2020-09-10T09:35:30.470Z",
 			"txn": "",
 			"network": "local"
 		},
@@ -851,7 +851,7 @@
 			"address": "0x5b7Ce504A1Fe41c1524850fe42E01C76e3179E5B",
 			"source": "ProxyERC20",
 			"link": "https://local.etherscan.io/address/0x5b7Ce504A1Fe41c1524850fe42E01C76e3179E5B",
-			"timestamp": "2020-09-03T11:24:21.280Z",
+			"timestamp": "2020-09-10T09:35:31.517Z",
 			"txn": "",
 			"network": "local"
 		},
@@ -860,7 +860,7 @@
 			"address": "0xCDD25b6439a7ae5946C3E7753cfEc3BD3f5420E2",
 			"source": "PurgeableSynth",
 			"link": "https://local.etherscan.io/address/0xCDD25b6439a7ae5946C3E7753cfEc3BD3f5420E2",
-			"timestamp": "2020-09-03T11:24:22.341Z",
+			"timestamp": "2020-09-10T09:35:32.589Z",
 			"txn": "",
 			"network": "local"
 		},
@@ -869,7 +869,7 @@
 			"address": "0x53391b9b9F4199c37d76554A6aDe2E9934845cC3",
 			"source": "TokenState",
 			"link": "https://local.etherscan.io/address/0x53391b9b9F4199c37d76554A6aDe2E9934845cC3",
-			"timestamp": "2020-09-03T11:24:27.649Z",
+			"timestamp": "2020-09-10T09:35:37.869Z",
 			"txn": "",
 			"network": "local"
 		},
@@ -878,7 +878,7 @@
 			"address": "0xE6D2E5D102A74d45bb87b08cBaDFD65b0B1cFAE0",
 			"source": "ProxyERC20",
 			"link": "https://local.etherscan.io/address/0xE6D2E5D102A74d45bb87b08cBaDFD65b0B1cFAE0",
-			"timestamp": "2020-09-03T11:24:28.690Z",
+			"timestamp": "2020-09-10T09:35:38.914Z",
 			"txn": "",
 			"network": "local"
 		},
@@ -887,7 +887,7 @@
 			"address": "0x092a12b34C48fFdd19b07E5734769BA8A8D002B1",
 			"source": "PurgeableSynth",
 			"link": "https://local.etherscan.io/address/0x092a12b34C48fFdd19b07E5734769BA8A8D002B1",
-			"timestamp": "2020-09-03T11:24:29.766Z",
+			"timestamp": "2020-09-10T09:35:39.987Z",
 			"txn": "",
 			"network": "local"
 		},
@@ -896,7 +896,7 @@
 			"address": "0xA520c9121f4CaD257fC06360d0613d1e46ED4b68",
 			"source": "Depot",
 			"link": "https://local.etherscan.io/address/0xA520c9121f4CaD257fC06360d0613d1e46ED4b68",
-			"timestamp": "2020-09-03T11:24:35.098Z",
+			"timestamp": "2020-09-10T09:35:45.281Z",
 			"txn": "",
 			"network": "local"
 		},
@@ -905,7 +905,7 @@
 			"address": "0xCDD1ADDD094628029D2918D55ED9e21E010C2897",
 			"source": "SynthUtil",
 			"link": "https://local.etherscan.io/address/0xCDD1ADDD094628029D2918D55ED9e21E010C2897",
-			"timestamp": "2020-09-03T11:24:36.146Z",
+			"timestamp": "2020-09-10T09:35:46.332Z",
 			"txn": "",
 			"network": "local"
 		},
@@ -914,7 +914,7 @@
 			"address": "0x1e0DA686abC27c1700de6cdCBE31445acbC2CfA2",
 			"source": "DappMaintenance",
 			"link": "https://local.etherscan.io/address/0x1e0DA686abC27c1700de6cdCBE31445acbC2CfA2",
-			"timestamp": "2020-09-03T11:24:37.197Z",
+			"timestamp": "2020-09-10T09:35:47.381Z",
 			"txn": "",
 			"network": "local"
 		},
@@ -923,7 +923,7 @@
 			"address": "0xab632FD404721711252555102adB831Db430BfDA",
 			"source": "EtherCollateral",
 			"link": "https://local.etherscan.io/address/0xab632FD404721711252555102adB831Db430BfDA",
-			"timestamp": "2020-09-03T11:24:38.250Z",
+			"timestamp": "2020-09-10T09:35:48.434Z",
 			"txn": "",
 			"network": "local"
 		}
