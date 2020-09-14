@@ -5,20 +5,18 @@ const abi = function(name) {
 	return require('../../build/compiled/' + name + '.json').abi;
 };
 
-var address = {
-	Synthetix: '0x2a5B2fE7A96020b378b98245709Ffa4C35498145',
-	ExchangeRates: '0xEBeb2Cc78f94EB10cBf3a46481A5fA26603F734F',
-	SystemSettings: '0xF383D0a290ED9FF7Cc3c0c78472681ffE0572129',
+const address = function(name) {
+	return require('../deployed/local/deployment').targets[name].address;
 };
 
-const provider = new providers.JsonRpcProvider('http://localhost:8545');
-const privateKey = '0x623bfea4fcd355f3a060f585902a0c4d88ee1777b6b0c8eaf81c3acd63ce28c1';
+const provider = new providers.JsonRpcProvider('http://192.168.1.183:8545');
+const privateKey = '0x5e6dff1276b3b05565cdc164ba734ff2a810c390b3196582ddbb126a331e6162';
 const wallet = new Wallet(privateKey, provider);
 
-const systemContract = new Contract(address['SystemSettings'], abi('SystemSettings'), provider);
-const synthetixContract = new Contract(address['Synthetix'], abi('Synthetix'), provider);
+const systemContract = new Contract(address('SystemSettings'), abi('SystemSettings'), provider);
+const synthetixContract = new Contract(address('Synthetix'), abi('Synthetix'), provider);
 const ExchangeRatesContract = new Contract(
-	address['ExchangeRates'],
+	address('ExchangeRates'),
 	abi('ExchangeRates'),
 	provider
 );
@@ -53,7 +51,7 @@ async function rateStalePeriod() {
 }
 
 async function balanceOf() {
-	const result = await synthetixWithSigner.balanceOf('0xBCf96DBb558460C6f027dDD37bDFbC50577Fa0A4');
+	const result = await synthetixWithSigner.balanceOf('0x21E3ACce64A61Cf7d0a68C67A7F02C67fB48C797');
 	console.log('result -----', utils.formatEther(result));
 }
 
@@ -116,7 +114,7 @@ async function setIssuanceRatio() {
 //balanceOf
 //transfer
 //issueSynths()
-//anyRateIsStale();
-updateRates()
+anyRateIsStale();
+//updateRates()
 //issuanceRatio()
 //setIssuanceRatio()
